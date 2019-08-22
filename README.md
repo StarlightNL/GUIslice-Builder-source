@@ -1,3 +1,9 @@
+In this fork I will try to add the following functions:
+- JSON import and export functionality to create a GUI with only text.
+    The JSON will support "modules" that are pre made elements grouped together for fast repetitive parts of a gui.
+- Control via serial port.
+    This will be like the nextion displays. A gui running on a sepperate controller
+
 # GUIslice Builder
 
 Please refer to the wiki page for installation and usage details:
